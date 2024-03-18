@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpringBreak</string>
+    <string name="selected_language">Selected language:</string>
+
+    <string-array name="Languages">
+        <item>English</item>
+        <item>Mandarin</item>
+        <item>French</item>
+        <item>Japanese</item>
+        <item>Spanish</item>
+        <item>Russian</item>
+    </string-array>
+</resources>
